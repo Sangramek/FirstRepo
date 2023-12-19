@@ -1,1 +1,11 @@
 Impossible Is A word TO Be Found IN The Dictionary Of Fools.
+
+using System;
+
+class MyClass{
+
+ public static void Main(string[]args)
+ {
+	console.WriteLine("Dedication,Hard Work All The Time And Belief");
+ }
+}
